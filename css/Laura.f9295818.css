@@ -1,0 +1,1 @@
+.images-grid[data-v-cf9fa186]{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem}.images-grid>[data-v-cf9fa186]{transition:all .4s}.images-grid>[data-v-cf9fa186]:hover{transform:scale(1.2)}@media (max-width:576px){.images-grid[data-v-cf9fa186]{grid-template-columns:repeat(2,1fr)}}
